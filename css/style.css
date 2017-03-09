@@ -1,0 +1,30 @@
+.black {
+  color: black;
+}
+
+.jumbotron {
+  background-color: #FF9393;
+  font-family: Montserrat,sans-serif;
+}
+
+.thumbnail {
+  background-color: #FF9393;
+  border: none;
+}
+
+body {
+  padding-top: 70px;
+  /*background-color: #FFFEF2;*/
+}
+
+.text-grey {
+  /*color: #FFFEF2;*/
+}
+
+#about-me-text {
+  font-size: 15pt;
+}
+
+#photo {
+  margin-top: 30px;
+}
